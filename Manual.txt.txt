@@ -1,0 +1,4 @@
+
+Edit the config file and just click on the exe file.thats IT!
+
+*Incase the progress bar is stuck close the program and run again
